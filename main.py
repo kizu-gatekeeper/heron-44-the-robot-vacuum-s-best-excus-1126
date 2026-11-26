@@ -1,6 +1,6 @@
 """Entry for make.fun: The Robot Vacuum's Best Excuse.
 
-A vacuum that skipped a spot to protect a crumb nature reserve.
+A vacuum that skipped one spot to protect a crumb nature reserve.
 """
 import os
 
